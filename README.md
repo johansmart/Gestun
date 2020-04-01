@@ -1,0 +1,2 @@
+# Gestun
+ software gesek tunai
